@@ -1,0 +1,24 @@
+{
+  "name": "Random Enough",
+  "version": "1.0.0",
+  "authors": [
+    "Chris Coleman <ccoleman@aaas.org>"
+  ],
+  "description": "Find things and display a given number of them at random",
+  "main": "jquery.randomEnough.js",
+  "keywords": [
+    "jquery",
+    "random"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
